@@ -1,3 +1,4 @@
+
 from time import perf_counter
 
 def remover_simbolos(texto):
